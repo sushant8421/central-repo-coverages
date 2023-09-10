@@ -4,6 +4,7 @@ seoDescription: "Using sorted sets in golang"
 datePublished: Sun Sep 03 2023 11:47:40 GMT+0000 (Coordinated Universal Time)
 cuid: clm3e1xg5000o0albaw9v5fzx
 slug: harnessing-k-way-merge-sorted-sets-for-top-product-selection-in-e-commerce-platforms
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694330863744/354c1388-a292-4c3b-8fb7-075c65a52f33.png
 tags: algorithms, go, golang, ecommerce, data-structures
 
 ---
