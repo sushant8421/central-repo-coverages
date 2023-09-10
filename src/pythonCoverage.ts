@@ -12,7 +12,7 @@ type RepoMap = {
 };
 
 const PYTHON_REPO_MAP: RepoMap = {
-  "cohortx-v2": {
+  "learning-python": {
     url: "https://api.github.com/repos/sushant8421/learning-python/git/trees/python-coverage-reports:coverage?recursive=1",
     repoLink: "https://github.com/sushant8421/learning-python",
   },

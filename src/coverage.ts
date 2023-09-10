@@ -12,7 +12,7 @@ export const coverageBadge = async () => {
   const localDir = "./public-badges-repo";
   if (!fs.existsSync(localDir)) {
     execSync(
-      `git clone https://${TOKEN}@github.com/city-mall/public-badges.git ${localDir}`
+      `git clone https://${TOKEN}@github.com/sushant8421/public-badges ${localDir}`
     );
   } else {
     execSync(`git pull`, { cwd: localDir });

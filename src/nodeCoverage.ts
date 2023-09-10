@@ -7,7 +7,7 @@ import { generateBadge } from "./common";
 const NODE_REPO_MAP: {
   [repoKey: string]: { url: string; repoLink: string };
 } = {
-  "product-store": {
+  "pq-heaps-ts": {
     url: "https://api.github.com/repos/sushant8421/pq-heaps-ts/git/trees/node-coverage-reports:coverage?recursive=1",
     repoLink: "https://github.com/sushant8421/pq-heaps-ts",
   },

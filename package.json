@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node dist/index.js",
     "build": "tsc"
   },
   "repository": {
@@ -23,11 +23,12 @@
     "child_process": "^1.0.2",
     "config": "^3.3.9",
     "lcov-parse": "^1.0.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
     "@types/config": "^3.3.1",
     "@types/lcov-parse": "^1.0.0",
-    "@types/node": "^20.6.0"
+    "@types/node": "^20.6.0",
+    "@types/node-fetch": "^2.6.4"
   }
 }
