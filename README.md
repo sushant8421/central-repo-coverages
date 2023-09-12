@@ -16,6 +16,7 @@ npm run build
 npm start
 ```
 
+```markdown
 1. CityMall Codebase
    |
    └──> Dynamic Code Coverage Badges on GitHub
@@ -75,5 +76,8 @@ npm start
    ├── Constructing README
    ├── Pushing changes to GitHub
    └── Cleaning up
+```
 
 ## Follow the following blog for more details
+
+https://sushant8421.hashnode.dev/citymalls-unified-code-coverage-crafting-dynamic-badges-for-multi-language-repositories
